@@ -37,7 +37,3 @@ Aquí puedes ver un resumen de mi actividad en la plataforma:
 * **Email:** [victor67ugr@gmail.com]
 
 ---
-
-<p align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo."</i> - Cory House
-</p>
