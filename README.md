@@ -29,18 +29,6 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
 ---
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <a href="https://github.com/[TU_USUARIO_GITHUB]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_GITHUB]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub" />
-  </a>
-  <a href="https://github.com/[TU_USUARIO_GITHUB]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_GITHUB]&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-  </a>
-</p>
