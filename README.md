@@ -2,7 +2,6 @@
 <h3 align="center">Desarrollador/a Back-End.</h3>
 
 
-
   <a href="https://www.instagram.com/victor67r" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
@@ -12,12 +11,11 @@
 
 ### 👨‍💻 Sobre mí
 
-- 🔭 Actualmente trabajando en **[Nombre de tu proyecto o empresa]**
-- 🌱 Aprendiendo a fondo sobre **[Tecnología que estás aprendiendo, ej. React, IA, Rust]**
-- 👯 Buscando colaborar en **[Tipo de proyectos, ej. Open Source o proyectos sociales]**
+- 🔭 Actualmente trabajando en **[Prácticas NTT DATA]**
+- 🌱 Aprendiendo a fondo sobre **[IA, Python, Cobol]**
 - 💬 Pregúntame sobre **[Tus áreas de experiencia, ej. bases de datos, diseño UI/UX]**
-- 📫 Cómo contactarme: **[Tu email de contacto]**
-- ⚡ Dato curioso: **[Algo interesante o divertido sobre ti]**
+- 📫 Cómo contactarme: **[victor67ugr@gmail.com]**
+- ⚡ Dato curioso: **[Soy ex-controlador aéreo]**
 
 ---
 
