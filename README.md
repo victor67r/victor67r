@@ -19,16 +19,6 @@ He trabajado con diversas tecnologías para dar vida a mis proyectos, destacando
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-Aquí puedes ver un resumen de mi actividad en la plataforma:
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victor67r&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor67r&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 📫 Conecta conmigo
 
