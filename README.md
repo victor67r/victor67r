@@ -13,7 +13,6 @@
 
 - 🔭 Actualmente trabajando en **[Prácticas NTT DATA]**
 - 🌱 Aprendiendo a fondo sobre **[IA, Python, Cobol]**
-- 💬 Pregúntame sobre **[Tus áreas de experiencia, ej. bases de datos, diseño UI/UX]**
 - 📫 Cómo contactarme: **[victor67ugr@gmail.com]**
 - ⚡ Dato curioso: **[Soy ex-controlador aéreo]**
 
